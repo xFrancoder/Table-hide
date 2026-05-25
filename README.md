@@ -133,6 +133,14 @@ The row will stay visible.
 
 ---
 
+### Toggle All Visibility Button
+
+In the left sidebar (where Obsidian’s main action buttons are located), you will find a button that allows you to quickly hide or show all content. This is useful for focusing on specific sections or resetting the view with a single click.
+
+![Button](assets/hideButton.png)
+
+---
+
 ## Donations
 
 If this plugin helped you, consider supporting development.
@@ -266,6 +274,14 @@ Ejemplo:
 | ((grammar)) | noun |
 
 La fila permanecerá visible.
+
+---
+
+### Botón para alternar la visibilidad
+
+En la barra lateral izquierda (donde están los botones principales de Obsidian), encontrarás un botón llamado Bicycle Button que permite ocultar o mostrar todo el contenido rápidamente. Es útil para enfocarse en secciones específicas o reiniciar la vista con un solo clic.
+
+![Button](assets/hideButton.png)
 
 ---
 
