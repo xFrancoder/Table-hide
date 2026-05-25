@@ -141,13 +141,8 @@ If this plugin helped you, consider supporting development.
 
 Replace this link with your PayPal:
 
-https://paypal.me/YOURNAME
+https://paypal.me/cwblackhole
 
-### Ko-fi
-
-Replace this link with your Ko-fi:
-
-https://ko-fi.com/YOURNAME
 
 ---
 
@@ -282,13 +277,8 @@ Si este plugin te ayudó y quieres apoyar el desarrollo:
 
 Reemplaza este link por tu PayPal:
 
-https://paypal.me/TUNOMBRE
+https://paypal.me/cwblackhole
 
-### Ko-fi
-
-Reemplaza este link por tu Ko-fi:
-
-https://ko-fi.com/TUNOMBRE
 
 ---
 
