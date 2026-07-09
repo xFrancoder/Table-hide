@@ -1,0 +1,10 @@
+{
+  "id": "table-hide",
+  "name": "Table Hide",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Hide and reveal markdown table cells for study.",
+  "author": "xFrancoder",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

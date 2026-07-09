@@ -1,0 +1,33 @@
+.hidden-cell {
+  background: #111 !important;
+  border-radius: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* Ocultar texto normal */
+.hidden-cell,
+.hidden-cell * {
+  color: transparent !important;
+  text-shadow: none !important;
+}
+
+/* Quitar highlight amarillo */
+.hidden-cell mark {
+  background: transparent !important;
+}
+
+/* Mantener visibles elementos interactivos */
+.hidden-cell audio,
+.hidden-cell button,
+.hidden-cell a,
+.hidden-cell svg,
+.hidden-cell img {
+  visibility: visible !important;
+  color: inherit !important;
+}
+
+.locked-column,
+.locked-row {
+  background-color: rgba(255,255,255,0.08) !important;
+}
