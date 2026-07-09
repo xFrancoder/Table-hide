@@ -4,7 +4,7 @@ Hide and reveal markdown table cells for active recall and language learning in 
 
 Oculta y revela celdas de tablas Markdown para práctica de memoria activa y aprendizaje de idiomas en Obsidian.
 
-![Demo](assets/demo.mp4)
+![Demo](assets/demo.gif)
 
 ---
 
